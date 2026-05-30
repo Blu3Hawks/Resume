@@ -1,6 +1,6 @@
 # Chen Sayag
 
-**Unity Developer | Game Developer**
+**Unity Game Developer**
 
 I build gameplay systems, prototypes, and interactive Unity experiences with a focus on responsive player feel, readable systems, and fast iteration. My main stack is **Unity 2D/3D** and **C#**, with additional experience in Unreal Engine 5, C++, Arduino-connected installations, QA, debugging, asset integration, Unity Animator, and VFX workflows.
 

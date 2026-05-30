@@ -15,11 +15,12 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 **Role:** Unity gameplay developer
 
 **What I worked on:**
-- Built core Unity gameplay systems and implementation for a player-focused game project.
-- Focused on responsive interactions, clean presentation, and fast iteration during development.
-- Helped connect gameplay feel, usability, and polish into the final playable experience.
+- Built the exploration systems and moment-to-moment player flow.
+- Implemented deck-building logic and connected it into the core gameplay loop.
+- Designed combat structure, combat interactions, and the turn-based gameplay loop.
+- Iterated on systems that connect exploration, cards, and combat into a cohesive playable experience.
 
-**Tech:** Unity, C#
+**Tech:** Unity, C#, turn-based systems, deck-building systems
 
 ### Global Game Jam 2026 - Rusted Gauntlets
 
@@ -28,11 +29,12 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 **Role:** Game jam developer
 
 **What I worked on:**
-- Built gameplay features under a tight jam deadline with a collaborative team.
-- Balanced scope, testing, and polish so the project stayed playable and focused.
-- Iterated quickly from design ideas into working Unity implementation.
+- Built the key player logic and movement systems for the game.
+- Implemented dash, block, push, and other core movement interactions.
+- Created gameplay modifiers and map modifiers that changed how tackles behaved.
+- Added effects such as reversed movement, camera shake, and other feedback-driven modifiers.
 
-**Tech:** Unity, C#
+**Tech:** Unity, C#, player controller, gameplay modifiers
 
 ### Procedural Dungeon Generator
 
@@ -41,11 +43,12 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 **Role:** Unity systems developer
 
 **What I worked on:**
-- Developed a procedural dungeon generation system for dynamic level layouts.
-- Designed the prototype around replayability, fast iteration, and readable gameplay spaces.
-- Explored generation rules and layout structure to support varied dungeon runs.
+- Built the procedural generation system for dungeon layouts.
+- Implemented dungeon behaviors and rules for how generated spaces function.
+- Created enemy spawning logic tied to dungeon structure and gameplay flow.
+- Developed save and load systems for preserving player and dungeon progress.
 
-**Tech:** Unity, C#, procedural generation
+**Tech:** Unity, C#, procedural generation, enemy spawning, save/load systems
 
 ## Technical Focus
 
@@ -53,16 +56,6 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 - **Gameplay:** gameplay systems, prototyping, procedural generation, UX iteration
 - **Production:** QA, debugging, Git/GitHub, asset integration, Unity Animator, particle systems
 - **Additional tools:** Unreal Engine 5, C++, Arduino-integrated interactive systems
-
-## Experience Snapshot
-
-**Berger Sisters - Unity Developer**  
-Nov 2025 - Present
-
-- Implemented Unity gameplay systems, player interactions, and feature logic across multiple 2D projects in active production.
-- Built interactive content for real-world installations, including the Midbaryom Zoo experience in Beer Sheva.
-- Tested, debugged, and refined gameplay flow to improve stability, usability, and release readiness.
-- Integrated assets, animations, VFX, and Arduino-connected interactions through Unity production workflows.
 
 ## Contact
 

@@ -12,12 +12,12 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 
 [Play on itch.io](https://yonatanamm.itch.io/night-of-the-beasts) | [Watch gameplay video](https://www.youtube.com/watch?v=hqETotdr46I)
 
-<!--
-Screenshots can be added here after the image files are placed in ./assets.
+![Night Of The Beasts combat UI](./assets/User%20attachment.png)
 
-Example:
-![Night Of The Beasts combat preview](./assets/night-of-the-beasts-combat.png)
--->
+<p>
+  <img src="./assets/User%20attachment%20(1).png" alt="Night Of The Beasts attack sequence" width="49%">
+  <img src="./assets/User%20attachment%20(2).png" alt="Night Of The Beasts exploration scene" width="49%">
+</p>
 
 **Role:** Unity gameplay developer
 

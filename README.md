@@ -4,13 +4,20 @@
 
 I build gameplay systems, prototypes, and interactive Unity experiences with a focus on responsive player feel, readable systems, and fast iteration. My main stack is **Unity 2D/3D** and **C#**, with additional experience in Unreal Engine 5, C++, Arduino-connected installations, QA, debugging, asset integration, Unity Animator, and VFX workflows.
 
-[Download Resume](./Chen_Sayag_Resume.pdf) | [GitHub](https://github.com/Blu3Hawks) | [LinkedIn](https://www.linkedin.com/in/chen-sayag-908794291/)
+[Download Resume](./Chen_Sayag_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/chen-sayag-908794291/)
 
 ## Featured Projects
 
 ### Night Of The Beasts
 
-[Play on itch.io](https://yonatanamm.itch.io/night-of-the-beasts)
+[Play on itch.io](https://yonatanamm.itch.io/night-of-the-beasts) | [Watch gameplay video](https://www.youtube.com/watch?v=hqETotdr46I)
+
+<!--
+Screenshots can be added here after the image files are placed in ./assets.
+
+Example:
+![Night Of The Beasts combat preview](./assets/night-of-the-beasts-combat.png)
+-->
 
 **Role:** Unity gameplay developer
 
@@ -60,5 +67,4 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 ## Contact
 
 - Email: [ylb.hen.sayag@gmail.com](mailto:ylb.hen.sayag@gmail.com)
-- GitHub: [Blu3Hawks](https://github.com/Blu3Hawks)
 - LinkedIn: [Chen Sayag](https://www.linkedin.com/in/chen-sayag-908794291/)

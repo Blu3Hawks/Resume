@@ -12,11 +12,11 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 
 [Play on itch.io](https://yonatanamm.itch.io/night-of-the-beasts) | [Watch gameplay video](https://www.youtube.com/watch?v=hqETotdr46I)
 
-![Night Of The Beasts combat UI](./assets/User%20attachment.png)
+![Night Of The Beasts combat UI](./assets/Night%20of%20the%20Beasts/User%20attachment.png)
 
 <p>
-  <img src="./assets/User%20attachment%20(1).png" alt="Night Of The Beasts attack sequence" width="49%">
-  <img src="./assets/User%20attachment%20(2).png" alt="Night Of The Beasts exploration scene" width="49%">
+  <img src="./assets/Night%20of%20the%20Beasts/User%20attachment%20(1).png" alt="Night Of The Beasts attack sequence" width="49%">
+  <img src="./assets/Night%20of%20the%20Beasts/User%20attachment%20(2).png" alt="Night Of The Beasts exploration scene" width="49%">
 </p>
 
 **Role:** Unity gameplay developer
@@ -32,6 +32,13 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 ### Global Game Jam 2026 - Rusted Gauntlets
 
 [View on Global Game Jam](https://globalgamejam.org/games/2026/rusted-gauntlets-7)
+
+![Rusted Gauntlets gameplay objective](./assets/GGJ%202026/image.png)
+
+<p>
+  <img src="./assets/GGJ%202026/image2.png" alt="Rusted Gauntlets split-screen modifier gameplay" width="49%">
+  <img src="./assets/GGJ%202026/image3.png" alt="Rusted Gauntlets crowd modifier state" width="49%">
+</p>
 
 **Role:** Game jam developer
 

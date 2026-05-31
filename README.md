@@ -31,7 +31,7 @@ I build gameplay systems, prototypes, and interactive Unity experiences with a f
 
 ### Global Game Jam 2026 - Rusted Gauntlets
 
-[View on Global Game Jam](https://globalgamejam.org/games/2026/rusted-gauntlets-7)
+[View on Global Game Jam](https://globalgamejam.org/games/2026/rusted-gauntlets-7) | [Watch gameplay video](https://youtu.be/8jAWayEXVHI)
 
 ![Rusted Gauntlets gameplay objective](./assets/GGJ%202026/image.png)
 
